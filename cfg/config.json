@@ -16,7 +16,7 @@
             "Key":"/etc/lnklyr/cfg/key.pem",
             "Cert":"/etc/lnklyr/cfg/cert.pem",
             "Limit":"1MB",
-            "PacketBuffer":10,
+            "PacketBuffer":500,
             "IsTLS":true,
             "Listen":"0.0.0.0:8005"
          }
