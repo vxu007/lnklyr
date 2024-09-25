@@ -1,6 +1,6 @@
 {
    "auth":"system",
-   "banner":"LinkLayerVPN Manager Script by @voltsshx",
+   "banner":"LinkLayerVPN Manager Script - 4.1 Public by @lstunnels",
    "limit_conn_single":-1,
    "limit_conn_request":-1,
    "services":[
